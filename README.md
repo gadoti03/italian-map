@@ -1,12 +1,12 @@
 # Progetto HTML + CSS + JS
 
-## 📌 Descrizione
-Un semplice progetto che mostra come integrare **HTML**, **CSS** e **JavaScript** in una pagina web.  
-Serve come base per iniziare a lavorare con i tre linguaggi fondamentali del web.
+## Descrizione
+Questo progetto mostra come integrare **HTML**, **CSS** e **JavaScript** per creare una **mappa interattiva dell’Italia**.  
+Gli utenti possono cliccare o passare con il mouse sulle regioni per ottenere informazioni aggiuntive, rendendo la mappa uno strumento utile sia didattico che informativo.
 
 ---
 
-## 📂 Struttura del progetto
+## Struttura del progetto
 ```
 .
 ├── index.html     # Pagina principale
@@ -17,7 +17,7 @@ Serve come base per iniziare a lavorare con i tre linguaggi fondamentali del web
 
 ---
 
-## 🚀 Come eseguirlo
+## Come eseguirlo
 1. Clona il repository:
    ```bash
    git clone https://github.com/tuo-username/nome-progetto.git
@@ -30,19 +30,14 @@ Serve come base per iniziare a lavorare con i tre linguaggi fondamentali del web
 
 ---
 
-## 🛠 Tecnologie utilizzate
+## Tecnologie utilizzate
 - **HTML5** – struttura della pagina  
 - **CSS3** – stili e layout  
 - **JavaScript** – interattività  
 
 ---
 
-## 📷 Screenshot
+## Screenshot
 Esempio della pagina in esecuzione:
 
 ![Demo](./screenshot.png)
-
----
-
-## 📜 Licenza
-Distribuito sotto licenza **MIT**. Sei libero di modificarlo e riutilizzarlo.

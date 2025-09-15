@@ -21,7 +21,7 @@ const regionLinks = {
     "calabria": "https://github.com/gadoti03/",
     "trentino": "https://github.com/gadoti03/",
     "bolzano": "https://github.com/gadoti03/"
-};http://fsse.civis.bz.it/fse
+};
 
 // Funzione per aggiungere interattività ai path
 document.querySelectorAll('path.regione').forEach(path => {

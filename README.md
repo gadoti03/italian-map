@@ -1,7 +1,5 @@
 # Progetto HTML + CSS + JS
 
-![Screenshot del progetto](./screenshot.png)
-
 ## 📌 Descrizione
 Un semplice progetto che mostra come integrare **HTML**, **CSS** e **JavaScript** in una pagina web.  
 Serve come base per iniziare a lavorare con i tre linguaggi fondamentali del web.
